@@ -29,7 +29,9 @@ The calculated discomfort level is displayed on the LCD screen to indicate wheth
 4. The system continuously reads temperature and humidity values and calculates discomfort level.
 
 ## Project Demo
-[Click here to watch the demo video](HDI_project.mp4)
+https://github.com/user-attachments/assets/dcbd061d-d5d2-464e-8503-85a34d9401bc
+
+
 
 ## Youtube Link
 https://youtu.be/JW4oL1UTP14
