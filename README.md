@@ -28,6 +28,12 @@ The calculated discomfort level is displayed on the LCD screen to indicate wheth
 3. Upload the Arduino code using Arduino IDE.
 4. The system continuously reads temperature and humidity values and calculates discomfort level.
 
+## Project Demo
+[Click here to watch the demo video](HDI_project.mp4)
+
+## Youtube Link
+https://youtu.be/JW4oL1UTP14
+
 ## Output
 The LCD screen displays:
 - Temperature
